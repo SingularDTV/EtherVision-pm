@@ -1,6 +1,6 @@
 ## EtherVision Project Management
 
-### ***EtherVision Launch Date: ***
+### *** EtherVision Launch Date: ***
 
 
 ### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
