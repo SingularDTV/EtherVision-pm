@@ -2,8 +2,9 @@
 
 ### EtherVision Launch Date: 
 
-
-### [White Paper](https://github.com/SingularDTV/whitepaper) / [Website](https://snglsDAO.io)
+### [EtherVision White Paper] () *COMING SOON*
+### [sngls DAO White Paper](https://github.com/SingularDTV/whitepaper) 
+### [Website](https://snglsDAO.io)
 
 ### Previous EtherVision Project Calls
 
