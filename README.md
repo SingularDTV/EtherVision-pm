@@ -1,6 +1,6 @@
 ## EtherVision Project Management
 
-![](logo/EtherVision_logo_gradient (1).png)
+![](logo/EtherVision_logo_gradient.png)
 
 ### EtherVision Launch Date: 
 
