@@ -1,5 +1,7 @@
 ## EtherVision Project Management
 
+![](logo/EtherVision_logo_gradient (1).png)
+
 ### EtherVision Launch Date: 
 
 ### [EtherVision White Paper](https://github.com/singulardtv) *COMING SOON*
