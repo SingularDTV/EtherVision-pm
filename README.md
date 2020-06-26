@@ -2,7 +2,9 @@
 
 ![](logo/EtherVision_logo_gradient.png)
 
-### EtherVision Launch Date: 
+# A full node piece of software that contains the torrent system, governance layer, and content mining.
+
+### EtherVision Release Date: 
 
 ### [EtherVision White Paper](https://github.com/singulardtv) *COMING SOON*
 ### [snglsDAO White Paper](https://github.com/SingularDTV/whitepaper) 
