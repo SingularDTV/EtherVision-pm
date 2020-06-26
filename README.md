@@ -2,7 +2,7 @@
 
 ![](logo/EtherVision_logo_gradient.png)
 
-A full node piece of software that contains the torrent system, governance layer, and content mining.
+A full node piece of software that contains the SNGLS media distribution torrent system, governance layer, and content mining.
 
 # EtherVision Release Date: 
 
